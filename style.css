@@ -1,0 +1,23 @@
+.main-name{
+    padding: 2px 80px;
+}
+.just-name{
+    color: rgb(0, 110, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+ul{
+    list-style: none;
+    font-size: 18px;
+}
+ul li{
+    float: right;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li{
+    text-decoration: none;
+    background-image: linear-gradient(blueviolet, pink);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
